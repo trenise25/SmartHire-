@@ -6,6 +6,22 @@
 
 > A modern, production-ready job portal and applicant tracking system built with React, JavaScript, and Bootstrap. Perfect for demonstrating full-stack web development skills to recruiters and hiring managers.
 
+## Screenshots:
+
+### Landing Page:
+<img width="940" height="831" alt="image" src="https://github.com/user-attachments/assets/abf4c576-a589-477e-b88e-80bd8b8741a3" />
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/07a357d3-190f-4ace-b41a-118a13b30854" />
+<img width="940" height="1240" alt="image" src="https://github.com/user-attachments/assets/73625e0d-c80f-47f0-9671-4ab6e5575bd7" />
+
+### 2. Job Listing Page
+<img width="940" height="1017" alt="image" src="https://github.com/user-attachments/assets/6b8b70d8-3e84-44ff-b3e7-069bf9b992ad" />
+
+### 3. Candidate Dashboard
+<img width="940" height="898" alt="image" src="https://github.com/user-attachments/assets/caf53a10-2c77-456b-8c0b-356ca4644d79" />
+
+### 4. Recruiter Dashboard
+<img width="940" height="570" alt="image" src="https://github.com/user-attachments/assets/75391860-9477-40f4-9764-7e7c873eba4e" />
+
 ## ✨ Features
 
 ### 🎯 For Job Seekers (Candidates)
@@ -178,3 +194,4 @@ Built as a portfolio project to demonstrate modern web development skills.
 ---
 
 **⭐ If you like this project, please give it a star on GitHub!**
+
