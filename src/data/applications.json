@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "jobId": 1,
+        "candidateName": "John Doe",
+        "candidateEmail": "candidate@demo.com",
+        "status": "Pending",
+        "appliedDate": "2025-12-11",
+        "resume": "john_doe_resume.pdf"
+    },
+    {
+        "id": 2,
+        "jobId": 3,
+        "candidateName": "John Doe",
+        "candidateEmail": "candidate@demo.com",
+        "status": "Shortlisted",
+        "appliedDate": "2025-12-09",
+        "resume": "john_doe_resume.pdf"
+    },
+    {
+        "id": 3,
+        "jobId": 6,
+        "candidateName": "John Doe",
+        "candidateEmail": "candidate@demo.com",
+        "status": "Rejected",
+        "appliedDate": "2025-12-13",
+        "resume": "john_doe_resume.pdf"
+    },
+    {
+        "id": 4,
+        "jobId": 1,
+        "candidateName": "Jane Smith",
+        "candidateEmail": "jane.smith@email.com",
+        "status": "Shortlisted",
+        "appliedDate": "2025-12-10",
+        "resume": "jane_smith_resume.pdf"
+    },
+    {
+        "id": 5,
+        "jobId": 2,
+        "candidateName": "Mike Johnson",
+        "candidateEmail": "mike.j@email.com",
+        "status": "Pending",
+        "appliedDate": "2025-12-12",
+        "resume": "mike_johnson_resume.pdf"
+    },
+    {
+        "id": 6,
+        "jobId": 4,
+        "candidateName": "Sarah Williams",
+        "candidateEmail": "sarah.w@email.com",
+        "status": "Shortlisted",
+        "appliedDate": "2025-12-11",
+        "resume": "sarah_williams_resume.pdf"
+    },
+    {
+        "id": 7,
+        "jobId": 7,
+        "candidateName": "David Brown",
+        "candidateEmail": "david.b@email.com",
+        "status": "Pending",
+        "appliedDate": "2025-12-08",
+        "resume": "david_brown_resume.pdf"
+    },
+    {
+        "id": 8,
+        "jobId": 9,
+        "candidateName": "Emily Davis",
+        "candidateEmail": "emily.d@email.com",
+        "status": "Shortlisted",
+        "appliedDate": "2025-12-13",
+        "resume": "emily_davis_resume.pdf"
+    }
+]
