@@ -6,6 +6,7 @@
 
 > A modern, production-ready job portal and applicant tracking system built with React, JavaScript, and Bootstrap. Perfect for demonstrating full-stack web development skills to recruiters and hiring managers.
 
+### Vercel Deployed Link: https://smart-hire-git-main-trenise-dsouzas-projects.vercel.app/
 ## Screenshots:
 
 ### Landing Page:
@@ -194,4 +195,5 @@ Built as a portfolio project to demonstrate modern web development skills.
 ---
 
 **⭐ If you like this project, please give it a star on GitHub!**
+
 
